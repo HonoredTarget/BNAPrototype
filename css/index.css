@@ -1,0 +1,15 @@
+.caro {
+    width: 100%;
+    height: 500px;
+    margin-top: 56px;
+}
+
+#slide {
+    height: 500px;
+}
+
+.join {
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+}

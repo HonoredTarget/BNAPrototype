@@ -1,0 +1,16 @@
+.lwr {
+    margin-top: 75px;
+}
+.flux {
+    border-radius: 5px;
+    padding: 7px;
+    background-color: #192838;
+    color: white;
+    border: 0;
+    transition: all .4s ease;
+}
+
+.flux:hover {
+    background-color: lightslategray;
+    color: #192838;
+}
